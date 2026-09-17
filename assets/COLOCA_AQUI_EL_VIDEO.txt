@@ -1,0 +1,7 @@
+Coloca en esta carpeta el video de la prueba realizada en el carro.
+
+Nombre obligatorio:
+video-prueba.mp4
+
+Formato recomendado:
+MP4 con codificación H.264, horizontal 16:9 y resolución 1280x720 o 1920x1080.
